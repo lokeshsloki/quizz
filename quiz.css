@@ -1,0 +1,17 @@
+body{
+    background-color:yellow;
+    color: blue;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 2rem;
+}
+#button{background-color:red;
+    color: brown;
+    font-size: 15px;
+padding: 5px;}
+#check{
+    background-color: cyan;
+    color: darkgray;
+    margin-left: auto;
+    font-weight:bold;
+}
